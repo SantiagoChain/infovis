@@ -1,0 +1,10 @@
+index chart
+small multiples
+mirrors
+Parallel Coordinates
+Flow Maps
+Graduated Symbol Maps
+Node-Link Diagrams
+Reingold-Tilford
+dendrogram
+Enclosure Diagrams
